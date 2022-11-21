@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+::-webkit-scrollbar {
+  display: none; /* Chrome Safari */
+}
+.mt {
+  margin-top: 10px;
+}
